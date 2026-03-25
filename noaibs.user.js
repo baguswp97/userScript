@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name        Permanent Google Classic Search (nuke them "Web Guide" bs)
-// @match       https://google.com/search*
+// @match       https://www.google.com/search*
 // @grant       none
 // @run-at      document-start
 // ==/UserScript==
