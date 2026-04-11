@@ -1,8 +1,14 @@
 // ==UserScript==
-// @name        Permanent Google Classic Search (nuke them "Web Guide" bs)
-// @match       https://www.google.com/search*
-// @grant       none
-// @run-at      document-start
+// @name         Permanent Google Classic Search
+// @version      1.0
+// @description  nuke them "Web Guide" bs
+// @author       baguswp97
+// @match        https://www.google.com/search*
+// @icon         https://www.google.com/s2/favicons?domain=google.com
+// @updateURL    https://github.com/baguswp97/userScript/raw/2/noaibs.user.js
+// @downloadURL  https://github.com/baguswp97/userScript/raw/2/noaibs.user.js
+// @grant        none
+// @run-at       document-start
 // ==/UserScript==
 
 (function() {
